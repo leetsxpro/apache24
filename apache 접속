@@ -1,0 +1,10 @@
+/* 환경변수 먼저 설정
+    예)시스템 변수에서 path 편집, C:\APM\Apache24\bin
+    
+    cmd 관리자 권한으로 실행,
+    
+    기본명령어
+    httpd -k start 아파치 시작
+    httpd -k stop 아파치 중지
+    httpd -k restart 아파치 재시작
+*/
